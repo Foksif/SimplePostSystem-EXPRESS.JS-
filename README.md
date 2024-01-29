@@ -26,7 +26,7 @@ To launch the application use
 
 ## Dev
 
-To build the project use
+To developer the application use
 
 ```bash
   npm init
